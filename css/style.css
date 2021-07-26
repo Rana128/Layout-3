@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo-ber{
+    height: 100px;
+    width: 20%;
+    background-color: #999;
+    float: left;
+}
+.header-ber{
+    height: 100px;
+    width: 80%;
+    background-color: coral;
+    float: right;
+    text-align: center;
+}
+
+.banner{
+    height: 600px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    height: 150px;
+    width: 50%;
+    background-color: aqua;
+    float: right;
+}
+.right{
+    height: 150px;
+    width: 50%;
+    background-color: cornflowerblue;
+    float: left;
+}
+
+
+.long{
+    overflow: hidden;
+}
+
+.long-left{
+    width: 80%;
+    height: 100px;
+    background-color: darkgray;
+    float: left;
+}
+
+.long-right{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(21, 134, 11);
+    float: right;
+}
+
+.section{
+    overflow: hidden;
+}
+
+.col-1{
+    width: 25%;
+    height: 100px;
+    background-color: crimson;
+    float: left;
+}
+
+.col-2{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(117, 9, 9);
+    float: left;
+}
+
+.col-3{
+    width: 25%;
+    height: 100px;
+    background-color: crimson;
+    float: left;
+}
+
+.col-4{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(12, 6, 7);
+    color: #fff;
+    float: left;
+}
+.footer{
+    height: 100px;
+    background-color: forestgreen;
+}
